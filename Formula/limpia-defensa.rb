@@ -1,8 +1,8 @@
 class LimpiaDefensa < Formula
   desc "Secure system optimizer and malware scanner for macOS"
   homepage "https://github.com/XavaATI/limpia-defensa"
-  url "https://github.com/XavaATI/limpia-defensa/releases/download/v1.3.7/limpia-defensa-v1.3.7.tar.gz"
-  sha256 "4fc126c41db58d0afd904aa5291a0584310225ab025469b16e586e7f339a79f7"
+  url "https://github.com/xavasena/limpia-defensa/archive/refs/tags/v1.3.8.tar.gz"
+  sha256 "8ce0bd2343e8a9b2fa2ef4b399060ae26ecdebcd312cb0d564e3c388bc403e3e"
   license "MIT"
 
   depends_on "python@3"
